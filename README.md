@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello fellow Person, I'm Sergej :) 👋
 
-<!--
-**Papa-Yaga/Papa-Yaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙂👉👉 Some quick facts about Me
 
-Here are some ideas to get you started:
+* I used to draw for the entertainment industry as a concept artist.
+* In my past i have gathered first experience at analysing data at Fidor Bank.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Skillset is as following:
+
+* Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Tensorflow)
+* SQL (MySQL)
+* Tableau, Jupyter Notebook
+* EDA, Machine Learning, Agile Scrum Methodology, Documentation and Presentation
