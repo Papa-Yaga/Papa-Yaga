@@ -1,8 +1,10 @@
 ## Hello fellow Person, I'm Sergej :) 👋
 
+Before turning to Data i used to be a concept artist. To those unfamiliar with the term, this means i have been turning visions into visualizations ever since ive been young. Eventually i have realized that i enjoy the impact my work had on the decisions of my clients so much that i decided to pursue a purer form of translation: Data to Decision. 
+
 ## 🙂👉👉 Some quick facts about Me
 
-* I used to draw for the entertainment industry as a concept artist.
+* I used to draw for the entertainment industry as a digital artist.
 * In my past i have gathered first experience at analysing data at Fidor Bank.
 * Extremely interested in using data as a way of influencing decisions
 
