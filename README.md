@@ -26,3 +26,5 @@ My Skillset is as following:
 
 [Machine Learning project to identify toxic mushrooms](https://github.com/Papa-Yaga/Ironhack_Projects/tree/main/Project_6_Machine_Learning)
 * In this project we have applied KNNeighbors and DecisionTreeClassifier to identify potentially toxic mushrooms.
+
+## If you would like to reach out to me, feel free to contact me here: niser@gmx.de
